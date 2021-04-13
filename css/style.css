@@ -16,7 +16,7 @@
   box-shadow: 0 0 4px 2px rgb(95, 95, 95);
 }
 
-.box h1 {
+.box h1, h3 {
   margin-top: 20px;
 }
 
